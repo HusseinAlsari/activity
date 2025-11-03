@@ -14,7 +14,7 @@ struct ContentView: View {
 
     var body: some View {
         Text("Home")
-        Text("Helllllllllloooo")
+        Text("Helllllllllممممممممممloooo")
         NavigationSplitView {
             List {
                 ForEach(items) { item in
